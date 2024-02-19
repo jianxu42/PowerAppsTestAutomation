@@ -18,7 +18,7 @@ parameters:
    displayName: Pool Image
    type: string
    # See https://github.com/MicrosoftDocs/azure-devops-docs/blob/master/docs/pipelines/agents/hosted.md#use-a-microsoft-hosted-agent for more pool types
-   default: windows-2019
+   default: vs2017-win2016
    values:
    - windows-latest
    - vs2017-win2016
