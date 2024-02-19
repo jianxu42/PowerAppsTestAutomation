@@ -734,7 +734,7 @@ namespace Microsoft.PowerApps.TestAutomation.Browser
             if (success.HasValue && success.Value && successCallback != null)
                 successCallback(driver);
             else if (success.HasValue && !success.Value && failureCallback != null)
-                failureCallback(driver);
+                successCallback(driver);
 
             return success.Value;
         }
