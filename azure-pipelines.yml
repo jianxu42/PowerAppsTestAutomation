@@ -26,7 +26,7 @@ parameters:
  - name: BrowserType
    displayName: Browser Type
    type: string
-   default: All
+   default: Chrome
    values:
    - Chrome
    - Firefox
