@@ -144,7 +144,7 @@ namespace Microsoft.PowerApps.TestAutomation.Api
                         {
                             try
                             {
-                                e.WaitUntilVisible(By.ClassName("header-371"), new TimeSpan(0, 0, 30));
+                                e.WaitUntilVisible(By.ClassName("hpyHhmSe9hmk5gopLr9a5Q=="), new TimeSpan(0, 0, 30));
                             }
                             catch (Exception exc)
                             {
@@ -172,7 +172,7 @@ namespace Microsoft.PowerApps.TestAutomation.Api
                     {
                         try
                         {
-                            e.WaitUntilVisible(By.ClassName("header-371"), new TimeSpan(0, 0, 30));
+                            e.WaitUntilVisible(By.ClassName("hpyHhmSe9hmk5gopLr9a5Q=="), new TimeSpan(0, 0, 30));
                         }
                         catch (Exception exc)
                         {
@@ -204,7 +204,7 @@ namespace Microsoft.PowerApps.TestAutomation.Api
                                     {
                                         try
                                         {
-                                            e.WaitUntilVisible(By.ClassName("header-371"), new TimeSpan(0, 0, 30));
+                                            e.WaitUntilVisible(By.ClassName("hpyHhmSe9hmk5gopLr9a5Q=="), new TimeSpan(0, 0, 30));
                                         }
                                         catch (Exception exc)
                                         {
