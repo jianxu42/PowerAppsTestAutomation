@@ -53,7 +53,7 @@ jobs:
     value: https://make.powerapps.com
     # Browser PrivateMode usage (true/false)
   - name: PrivateMode
-    value: false
+    value: true
     # FileName where TestAutomationURLs are stored in JSON format
   - name: TestUrlFileName 
     value: TestURLs.json
